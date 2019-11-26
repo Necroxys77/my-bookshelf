@@ -9,3 +9,49 @@ Modern x86 Assembly Language Programming	https://doc.lagout.org/programmation/as
 Practical Reverse Engineering	https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf	textbook	reverse-engineering	windows	2014
 Hardware Security - A Hands-on Learning Approach	https://hwsecuritybook.org/	textbook	hardware	2019
 Learning Linux Binary Analysis	http://index-of.es/Miscellanous/Learning%20Linux%20Binary%20Analysis.pdf	textbook	linux	2016
+The Hacker Playbook 3: Practical Guide to Penetration Testing	https://darkweblinks.org/files/Books/The%20Hacker%20Playbook%20-%20Practical%20Guide%20To%20Penetration%20Testing.pdf	textbook	penetration-testing	2018
+A Tour of C++ (2nd Edition)	http://www.stroustrup.com/tour2.html	textbook	computer-programming	c++	2018
+Automate the Boring Stuff with Python (2n Edition)	https://automatetheboringstuff.com/	textbook	computer-programming	python	2019
+Introduction to Computer Networks and Cybersecurity	https://www.amazon.it/Introduction-Computer-Networks-Cybersecurity-Chwan-Hwa/dp/1466572132	textbook	networking	2013
+Practical Malware Analysis	https://repo.zenk-security.com/Virus-Infections-Detections-Preventions/Practical_Malware_Analysis.pdf	textbook	malware	2012
+IDA Pro Book	https://repo.zenk-security.com/Reversing%20.%20cracking/The%20IDA%20Pro%20Book-2nd%20Edition-2011.pdf	textbook	malware	tool	2011
+C++ Primer (5th Edition)	http://www.charleshouserjr.com/Cplus2.pdf	textbook	computer-programming	c++	2012
+Advanced Penetration Testing: Hacking the World's Most Secure Networks	https://www.amazon.it/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689	textbook	penetration-testing	2017
+Tech Interview Handbook	https://yangshun.github.io/tech-interview-handbook/	website	best-practices
+Awesome Virtualization	https://github.com/Wenzel/awesome-virtualization	website	awesome-github	virtualization
+APTNotes - public docs and articles about APT campaigns	https://github.com/kbandla/APTnotes	website	malware
+Awesome Security Hardening	https://github.com/decalage2/awesome-security-hardening	website	awesome-github	computer-security
+Awesome Security	https://github.com/sbilly/awesome-security	website	awesome-github	computer-security
+Awesome Malware Analysis	https://github.com/rshipp/awesome-malware-analysis	website	awesome-github	malware
+Awesome Hacking	https://github.com/carpedm20/awesome-hacking	website	awesome-github	hacking
+Awesome Machine Learning	https://github.com/josephmisiti/awesome-machine-learning/	website	awesome-github	machine-learning
+The Art of Command Line	https://github.com/jlevy/the-art-of-command-line	website	best-practices	bash
+Awesome Shell	https://github.com/alebcay/awesome-shell	website	linux	bash	awesome-github
+Machine Learning and Security	https://github.com/13o-bbr-bbq/machine_learning_security	website	machine-learning	computer-security
+OS tutorial - How to create an OS from scratch	https://github.com/cfenollosa/os-tutorial	website	operating-systems	course
+Rust for C++	https://github.com/nrc/r4cppp	website	computer-programming	rust
+Malware Sandboxes & Malware Source	https://github.com/0xc1r3ng/Malware-Sandboxes-Malware-Source	website	malware	sandbox
+Awesome *	https://github.com/sindresorhus/awesome	website	awesome-github
+Computer Science - General Education	https://github.com/ossu/computer-science	website	computer-science
+Awesome Penetration Test	https://github.com/enaqx/awesome-pentest	website	awesome-github	penetration-testing
+ShellCheck - static analysis tool for shell scripts	https://github.com/koalaman/shellcheck	website	github	tool	bash
+InviZzzible - tool for assessment of your virtual environments in an easy and reliable way	https://github.com/CheckPointSW/InviZzzible	website	github	tool	virtualization
+Beets - music library manager and MusicBrainz tagger	https://github.com/beetbox/beets	website	github	tool
+Awesome Firmware Security	https://github.com/PreOS-Security/awesome-firmware-security	website	awesome-github	computer-security	firmware
+Beginner Network Pentesting	https://github.com/hmaverickadams/Beginner-Network-Pentesting	website	penetration-testing	course
+Virii - collection of ancient computer virus source codes	https://github.com/guitmz/virii	website	malware
+Pastel - command-line tool to generate, analyze, convert and manipulate colors	https://github.com/sharkdp/pastel	website	github	tool
+APT & CyberCriminal Campaign Collection	https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections	website	malware
+Grapl - graph platform for Detection and Response	https://github.com/insanitybit/grapl	website	github	tool
+Google Style Guides	https://google.github.io/styleguide/	website	best-practices	computer-programming
+Learning C++ Best Practices	http://shop.oreilly.com/product/0636920049814.do	website	best-practices	c++	computer-programming
+C++ Best Practices	https://legacy.gitbook.com/book/lefticus/cpp-best-practices/details	website	best-practices	c++	computer-programming
+How to Write Shared Libraries	https://www.akkadia.org/drepper/dsohowto.pdf	website	best-practices	computer-programming	c++
+Docker - for beginners	https://docker-curriculum.com/	website	docker
+C++ Core Guidelines	http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines	website	best-practices	computer-programming
+Semantic Versioning 2.0.0	https://semver.org/	website	best-practices	computer-programming
+The Art of Game Design	http://www.sg4adults.eu/files/art-game-design.pdf	textbook	game-design		2008
+WinDbg - tutorials	https://stackoverflow.com/questions/4946685/good-tutorial-for-windbg	website	tool	windows	tutorial
+WinDbg - From A to Z!	http://windbg.info/download/doc/pdf/WinDbg_A_to_Z_bw2.pdf	slides	tool	windows
+Building a Pwnagotchi for WiFi penetration testing	https://blog.viktorpetersson.com/2019/11/21/building-a-pwnagotchi-with-papirus.html	website	penetration-testing	raspberry-py	tutorial
+GitHub Pages	https://pages.github.com/	website	github-guide
