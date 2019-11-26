@@ -8,7 +8,7 @@ The list of items is stored in [`bookshelf.tsv`](./bookshelf.tsv) in the followi
     item_name1 \t link1 \t tag1 \t tag2 \t ...
     item_name2 \t link2 \t tag1 \t tag2 \t ...
 
-Please go to [pietroborrello.github.io/my-bookshelf/](https://pietroborrello.github.io/my-bookshelf/) for the interactive version.
+Please go to [necroxys77.github.io/my-bookshelf/](https://necroxys77.github.io/my-bookshelf/) for the interactive version.
 
 It's more a proof of concept rather than an established solution. It might change in the future.
 
@@ -45,8 +45,8 @@ You'll find many textbooks, papers, articles, blog posts, readings and similar i
 
 You can effectively access to the bookshelf in two ways:
 
-- The Github page: [pietroborrello.github.io/my-bookshelf](https://pietroborrello.github.io/my-bookshelf/)
-- By open the [bookshelf.tsv](https://github.com/pietroborrello/my-bookshelf/blob/master/bookshelf.tsv) file on Github, by leveraging [the rendering functionalities](https://help.github.com/articles/rendering-csv-and-tsv-data/)
+- The Github page: [necroxys77.github.io/my-bookshelf](https://necroxys77.github.io/my-bookshelf/)
+- By open the [bookshelf.tsv](https://github.com/necroxys77/my-bookshelf/blob/master/bookshelf.tsv) file on Github, by leveraging [the rendering functionalities](https://help.github.com/articles/rendering-csv-and-tsv-data/)
 
 ## Tag examples
 
