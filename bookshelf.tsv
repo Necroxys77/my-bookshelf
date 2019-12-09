@@ -40,7 +40,7 @@ Beets - music library manager and MusicBrainz tagger	https://github.com/beetbox/
 Awesome Firmware Security	https://github.com/PreOS-Security/awesome-firmware-security	website	awesome-github	computer-security	firmware											
 Beginner Network Pentesting	https://github.com/hmaverickadams/Beginner-Network-Pentesting	website	penetration-testing	course												
 Virii - collection of ancient computer virus source codes	https://github.com/guitmz/virii	website	malware													
-Pastel - command-line tool to generate, analyze, convert and manipulate colors	https://github.com/sharkdp/pastel	website	github	tool												
+Pastel - command-line tool to generate, analyze, convert and manipulate colors	https://github.com/sharkdp/pastel	website	github	tool	computer-vision											
 APT & CyberCriminal Campaign Collection	https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections	website	malware													
 Grapl - graph platform for Detection and Response	https://github.com/insanitybit/grapl	website	github	tool												
 Google Style Guides	https://google.github.io/styleguide/	website	best-practices	computer-programming												
@@ -75,6 +75,6 @@ La Torre della Rondine	https://www.amazon.it/torre-della-rondine-Andrzej-Sapkows
 La signora del lago	https://www.amazon.it/signora-del-lago-Andrzej-Sapkowski/dp/8842926116/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=La+Torre+della+Rondine&qid=1574946544&sr=8-2	book	fantasy													
 La stagione delle tempeste	https://www.amazon.it/stagione-delle-tempeste-Andrzej-Sapkowski/dp/8842928534/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=La+Torre+della+Rondine&qid=1574946544&sr=8-3	book	fantasy													
 I Canti di Hyperion	https://www.amazon.it/Hyperion-Endymion-risveglio-Endymion-Fantascienza/dp/B01BKOKBDA/ref=sr_1_7?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Canti+di+Hyperion&qid=1574946663&sr=8-7	book	cyberpunk													
-Learn WinDbg	http://windbg.xyz/	website	windows
+Learn WinDbg	http://windbg.xyz/	website	windows													
 Good Background Colors for Readers: A Study of People with and without Dyslexia	https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf	computer-science	paper	computer-vision												
-	
+Penetration Testing: A Hands-On Introduction to Hacking	https://repo.zenk-security.com/Magazine%20E-book/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf	textbook	penetration-testing	2014												
