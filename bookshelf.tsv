@@ -25,8 +25,8 @@ Awesome Security	https://github.com/sbilly/awesome-security	website	awesome-gith
 Awesome Malware Analysis	https://github.com/rshipp/awesome-malware-analysis	website	awesome-github	malware												
 Awesome Hacking	https://github.com/carpedm20/awesome-hacking	website	awesome-github	hacking												
 Awesome Machine Learning	https://github.com/josephmisiti/awesome-machine-learning/	website	awesome-github	machine-learning												
-The Art of Command Line	https://github.com/jlevy/the-art-of-command-line	website	best-practices	bash												
-Awesome Shell	https://github.com/alebcay/awesome-shell	website	linux	bash	awesome-github											
+The Art of Command Line	https://github.com/jlevy/the-art-of-command-line	website	best-practices	scripting												
+Awesome Shell	https://github.com/alebcay/awesome-shell	website	linux	scripting	awesome-github											
 Machine Learning and Security	https://github.com/13o-bbr-bbq/machine_learning_security	website	machine-learning	computer-security												
 OS tutorial - How to create an OS from scratch	https://github.com/cfenollosa/os-tutorial	website	operating-systems	course												
 Rust for C++	https://github.com/nrc/r4cppp	website	computer-programming	rust												
@@ -34,7 +34,7 @@ Malware Sandboxes & Malware Source	https://github.com/0xc1r3ng/Malware-Sandboxes
 Awesome *	https://github.com/sindresorhus/awesome	website	awesome-github													
 Computer Science - General Education	https://github.com/ossu/computer-science	website	computer-science													
 Awesome Penetration Test	https://github.com/enaqx/awesome-pentest	website	awesome-github	penetration-testing												
-ShellCheck - static analysis tool for shell scripts	https://github.com/koalaman/shellcheck	website	github	tool	bash											
+ShellCheck - static analysis tool for shell scripts	https://github.com/koalaman/shellcheck	website	github	tool	scripting											
 InviZzzible - tool for assessment of your virtual environments in an easy and reliable way	https://github.com/CheckPointSW/InviZzzible	website	github	tool	virtualization											
 Beets - music library manager and MusicBrainz tagger	https://github.com/beetbox/beets	website	github	tool												
 Awesome Firmware Security	https://github.com/PreOS-Security/awesome-firmware-security	website	awesome-github	computer-security	firmware											
@@ -78,3 +78,4 @@ I Canti di Hyperion	https://www.amazon.it/Hyperion-Endymion-risveglio-Endymion-F
 Learn WinDbg	http://windbg.xyz/	website	windows													
 Good Background Colors for Readers: A Study of People with and without Dyslexia	https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf	computer-science	paper	computer-vision												
 Penetration Testing: A Hands-On Introduction to Hacking	https://repo.zenk-security.com/Magazine%20E-book/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf	textbook	penetration-testing	2014												
+The Bash Guide	https://guide.bash.academy/	website	tutorial	scripting
