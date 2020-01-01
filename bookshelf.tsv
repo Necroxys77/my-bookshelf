@@ -4,7 +4,7 @@ Windows Internals - 6th Edition (Part 2)	http://materias.fi.uba.ar/7508/WI6/Wind
 Windows Internals - 7th Edition (Part 1)	https://blogs.msdn.microsoft.com/microsoft_press/2017/05/09/new-book-windows-internals-seventh-edition-part-1/	textbook	operating-systems	windows	2019											
 Windows Internals - 7th Edition (Part 2)	https://www.amazon.com/Windows-Internals-Part-2-7th/dp/0135462401	textbook	operating-systems	windows	2019											
 Hacking - The Art of Exploitation	https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf	textbook	hacking	computer-programming	2008											
-The Art of Memory Forensics	https://repo.zenk-security.com/Forensic/The%20Art%20of%20Memory%20Forensics%20-%20Detecting%20Malware%20and%20Threats%20in%20Windows,%20Linux,%20and%20Mac%20Memory%20(2014).pdf	textbook	malware		2014											
+The Art of Memory Forensics	https://repo.zenk-security.com/Forensic/The%20Art%20of%20Memory%20Forensics%20-%20Detecting%20Malware%20and%20Threats%20in%20Windows,%20Linux,%20and%20Mac%20Memory%20(2014).pdf	textbook	malware	dfir	2014											
 Modern x86 Assembly Language Programming	https://doc.lagout.org/programmation/asm/Modern%20X86%20Assembly%20Language%20Programming_%2032-bit%2C%2064-bit%2C%20SSE%2C%20and%20AVX%20%5BKusswurm%202014-11-25%5D.pdf	textbook	computer-programming	x86-assembly	2014											
 Practical Reverse Engineering	https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf	textbook	reverse-engineering	windows	2014											
 Hardware Security - A Hands-on Learning Approach	https://hwsecuritybook.org/	textbook	hardware	2019												
@@ -78,4 +78,7 @@ I Canti di Hyperion	https://www.amazon.it/Hyperion-Endymion-risveglio-Endymion-F
 Learn WinDbg	http://windbg.xyz/	website	windows													
 Good Background Colors for Readers: A Study of People with and without Dyslexia	https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf	computer-science	paper	computer-vision												
 Penetration Testing: A Hands-On Introduction to Hacking	https://repo.zenk-security.com/Magazine%20E-book/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf	textbook	penetration-testing	2014												
-The Bash Guide	https://guide.bash.academy/	website	tutorial	scripting
+The Bash Guide	https://guide.bash.academy/	website	tutorial	scripting												
+Introduction to DFIR	https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180	website	dfir
+Velociraptor - endpoint monitoring documentation	https://www.velocidex.com/	website	velociraptor	dfir
+Velociraptor - slides	https://www.velocidex.com/resources/nzitf_velociraptor.pdf	slides	velociraptor	dfir
